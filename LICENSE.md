@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket automation-script with advanced Polymarket Automation Script | arbitrage-detection + event-driven-trading. Featuring arbitrage-detection and
 
 
 
